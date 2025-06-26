@@ -1,0 +1,8 @@
+pyttsx3
+requests
+vosk
+pyaudio
+insightface
+opencv-python
+numpy
+tk
